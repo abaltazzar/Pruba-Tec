@@ -6,6 +6,12 @@ __pycache__/
 # C extensions
 *.so
 
+# Microsoft
+desktop.ini
+
+# Mac OS
+.DS_storage
+
 # Distribution / packaging
 .Python
 build/
